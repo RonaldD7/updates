@@ -4,6 +4,8 @@
   "url": "https://play.google.com/store/apps/details?id=com.ronald.colorful.nbg.iconpack.v2",
   "releaseNotes": [
     "Added Tutorial",
+    "Migrated To Android X",
+    "Added Check for Update",
     "More Launchers Supported",
     "Added Dynamic Clock (Widget)",
     "New UI (Light & Dark Theme)",
