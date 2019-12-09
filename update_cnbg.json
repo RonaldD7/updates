@@ -1,14 +1,14 @@
 {
-  "latestVersion": "10.2",
-  "latestVersionCode": 102,
-  "url": "https://play.google.com/store/apps/details?id=com.ronald.colorful.nbg.iconpack.v2",
+  "latestVersion": "1.1",
+  "latestVersionCode": 356,
+  "disableRequest": {
+    "below": 356
+  },
+  "url": "https://github.com/zixpo/candybar",
   "releaseNotes": [
-    "Added Tutorial",
-    "More Launchers Supported",
-    "Added Dynamic Clock (Widget)",
-    "New UI (Light &amp; Dark Theme)",
-    "Localization: Supports 15 Languages",
-    "Added Regular &amp; Premium Icon Request Options",
-    "Added Lawnchair, Posidon, Blackberry ETC…In Apply Section",
+    "This is the text which will be shown on Update",
+    "This is Awesome",
+    "Please Enjoy My Friend",
+    "<b>This</b> is Just for <i>Testing</i>"
   ]
 }
