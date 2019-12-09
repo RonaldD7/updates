@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.1",
-  "latestVersionCode": 356,
+  "latestVersion": "10.2",
+  "latestVersionCode": 102,
   "disableRequest": {
     "below": 356
   },
@@ -9,6 +9,6 @@
     "Added Tutorial",
     "More Launchers Supported",
     "Added Dynamic Clock (Widget)",
-    "<a href="https://play.google.com/store/apps/details?id=com.ronald.colorful.nbg.iconpack.paid">Colorful Nbg Icon Pack (Paid): Premium Requests</a>"
+    "New UI (Light &amp; Dark Theme)"
   ]
 }
